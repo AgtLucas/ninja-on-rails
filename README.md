@@ -1,4 +1,0 @@
-ninja-on-rails
-==============
-
-XxXxXxX
